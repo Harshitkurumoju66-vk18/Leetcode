@@ -34,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/1260-shift-2d-grid) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
