@@ -22,4 +22,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0171-excel-sheet-column-number) |
+## Array
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/1260-shift-2d-grid) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
