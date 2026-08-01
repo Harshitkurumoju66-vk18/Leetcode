@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0242-valid-anagram) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
@@ -54,9 +55,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0242-valid-anagram) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
 |  |
