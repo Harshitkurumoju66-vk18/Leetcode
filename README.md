@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0389-find-the-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0389-find-the-difference](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0389-find-the-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,10 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0389-find-the-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
 |  |
