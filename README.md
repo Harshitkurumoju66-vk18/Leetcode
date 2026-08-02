@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -71,4 +73,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
