@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0001-two-sum) |
+| [0283-move-zeroes](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0283-move-zeroes) |
 | [1260-shift-2d-grid](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Matrix
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
