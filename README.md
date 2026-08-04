@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0001-two-sum) |
 | [0283-move-zeroes](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0283-move-zeroes) |
 | [1260-shift-2d-grid](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/1260-shift-2d-grid) |
+| [3731-find-missing-elements](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -68,12 +69,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0389-find-the-difference) |
+| [3731-find-missing-elements](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0389-find-the-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
