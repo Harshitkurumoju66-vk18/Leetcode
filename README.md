@@ -38,11 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0001-two-sum) |
 | [0283-move-zeroes](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0283-move-zeroes) |
+| [0463-island-perimeter](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0463-island-perimeter) |
 | [1260-shift-2d-grid](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/1260-shift-2d-grid) |
 | [3731-find-missing-elements](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0463-island-perimeter) |
 | [1260-shift-2d-grid](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
@@ -99,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0392-is-subsequence) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
