@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0441-arranging-coins) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0463-island-perimeter) |
+## Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
