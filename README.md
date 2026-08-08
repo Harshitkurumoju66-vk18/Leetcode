@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0001-two-sum) |
 | [0283-move-zeroes](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0463-island-perimeter) |
 | [1260-shift-2d-grid](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/1260-shift-2d-grid) |
 | [3731-find-missing-elements](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/3731-find-missing-elements) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
