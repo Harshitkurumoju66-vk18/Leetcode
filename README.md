@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0412-fizz-buzz) |
+| [0434-number-of-segments-in-a-string](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
