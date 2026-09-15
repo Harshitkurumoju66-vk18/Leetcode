@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0441-arranging-coins) |
+| [1952-three-divisors](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/1952-three-divisors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
@@ -117,4 +118,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/0441-arranging-coins) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Harshitkurumoju66-vk18/Leetcode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
